@@ -1,3 +1,6 @@
+/*Name of the author:Bhagyashree N M
+Date of modification:30th oct 2021*/
+
 // C++ program to determine whether the number is
 // Armstrong number or not
 #include<bits/stdc++.h>
