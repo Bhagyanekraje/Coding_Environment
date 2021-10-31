@@ -1,4 +1,4 @@
-# Coding-Environment... 
+# Coding Environment... 
 ## Hey there!! Anyone interested in coding?!!
 ### This repo consists of all possible programs implemented in C and C++
 
@@ -9,4 +9,4 @@
 - Do you have an idea for a new check, or how to improve an existing code? Then please go ahead and open a ***pull request!!***
 - Also make sure you include ***your name,date of modification & short description of the code written*** as a multiline comment in the header of the program that you have written.
                   
-  ## Happy Coding..!!                 
+  ## Good Luck! Happy Coding..!!                 
